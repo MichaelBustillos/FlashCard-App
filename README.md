@@ -7,7 +7,7 @@
 `TODO://` Add app description
 
 ### App Walk-though
-<img src="https://imgur.com/nu3kscT" width=200><br>
+<img src="https://i.imgur.com/nu3kscT.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
